@@ -1,0 +1,460 @@
+{
+    "nodes": [
+        {
+            "name": "ALK102C1",
+            "x": 50,
+            "y": 340,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.6527590847913862718707940781)"
+            },
+            "value": "1.879844961240310077519379845",
+            "category": "C1"
+        },
+        {
+            "name": "SEL102C1",
+            "x": 300,
+            "y": 290,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.4624160830779683698087047695)"
+            },
+            "value": "1.228209191759112519809825674",
+            "category": "C1"
+        },
+        {
+            "name": "SEL101C1",
+            "x": 300,
+            "y": 240,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.5795281691344450204809461683)"
+            },
+            "value": "1.539267015706806282722513089",
+            "category": "C1"
+        },
+        {
+            "name": "ALK101C1",
+            "x": 50,
+            "y": 290,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.5682608228950779875979489549)"
+            },
+            "value": "1.636503067484662576687116564",
+            "category": "C1"
+        },
+        {
+            "name": "SEL103C1",
+            "x": 300,
+            "y": 340,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.6235038084874863982589771491)"
+            },
+            "value": "1.656069364161849710982658960",
+            "category": "C1"
+        },
+        {
+            "name": "ALK101C2",
+            "x": 50,
+            "y": 290,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.5185735512630014858841010402)"
+            },
+            "value": "1.077160493827160493827160494",
+            "category": "C2"
+        },
+        {
+            "name": "SEL103C2",
+            "x": 300,
+            "y": 340,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.4930123693489227004454495052)"
+            },
+            "value": "2.392670157068062827225130890",
+            "category": "C2"
+        },
+        {
+            "name": "ALK102C2",
+            "x": 50,
+            "y": 340,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.3951774106896535034436695045)"
+            },
+            "value": "0.8208469055374592833876221498",
+            "category": "C2"
+        },
+        {
+            "name": "SEL102C2",
+            "x": 300,
+            "y": 290,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.7939488784559207094418362024)"
+            },
+            "value": "3.853164556962025316455696203",
+            "category": "C2"
+        },
+        {
+            "name": "SEL101C2",
+            "x": 300,
+            "y": 240,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.5861009679476033153654436908)"
+            },
+            "value": "2.844444444444444444444444444",
+            "category": "C2"
+        },
+        {
+            "name": "ALK101C3",
+            "x": 50,
+            "y": 290,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.4991067675493905002101723413)"
+            },
+            "value": "1.548076923076923076923076923",
+            "category": "C3"
+        },
+        {
+            "name": "SEL101C3",
+            "x": 300,
+            "y": 240,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.1987092391304347826086956522)"
+            },
+            "value": "0.3260869565217391304347826087",
+            "category": "C3"
+        },
+        {
+            "name": "ALK102C3",
+            "x": 50,
+            "y": 340,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.6775956284153005464480874317)"
+            },
+            "value": "2.101694915254237288135593220",
+            "category": "C3"
+        },
+        {
+            "name": "SEL102C3",
+            "x": 300,
+            "y": 290,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.3906250000000000000000000000)"
+            },
+            "value": "0.6410256410256410256410256410",
+            "category": "C3"
+        },
+        {
+            "name": "SEL103C3",
+            "x": 300,
+            "y": 340,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.3125000000000000000000000000)"
+            },
+            "value": "0.5128205128205128205128205128",
+            "category": "C3"
+        },
+        {
+            "name": "ALK102outlier",
+            "x": 50,
+            "y": 340,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": "0.0",
+            "category": "outlier"
+        },
+        {
+            "name": "SEL102outlier",
+            "x": 300,
+            "y": 290,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.8837209302325581395348837209)"
+            },
+            "value": "7.6",
+            "category": "outlier"
+        },
+        {
+            "name": "ALK101outlier",
+            "x": 50,
+            "y": 290,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": "0.0",
+            "category": "outlier"
+        },
+        {
+            "name": "SEL103outlier",
+            "x": 300,
+            "y": 340,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 128, 0, 0.1)"
+            },
+            "value": "0.0",
+            "category": "outlier"
+        }
+    ],
+    "links": [
+        {
+            "source": "ALK102C1",
+            "target": "SEL102C1",
+            "value": 299,
+            "lineStyle": {
+                "normal": {
+                    "width": 22.706948640483386
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "ALK102C1",
+            "target": "SEL101C1",
+            "value": 50,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.404833836858006
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "ALK101C1",
+            "target": "SEL103C1",
+            "value": 179,
+            "lineStyle": {
+                "normal": {
+                    "width": 14.36858006042296
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "ALK101C1",
+            "target": "SEL101C1",
+            "value": 141,
+            "lineStyle": {
+                "normal": {
+                    "width": 11.72809667673716
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "ALK102C1",
+            "target": "SEL103C1",
+            "value": 167,
+            "lineStyle": {
+                "normal": {
+                    "width": 13.53474320241692
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "ALK101C1",
+            "target": "SEL102C1",
+            "value": 332,
+            "lineStyle": {
+                "normal": {
+                    "width": 25
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "ALK101C2",
+            "target": "SEL103C2",
+            "value": 100,
+            "lineStyle": {
+                "normal": {
+                    "width": 8.879154078549849
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "ALK102C2",
+            "target": "SEL102C2",
+            "value": 205,
+            "lineStyle": {
+                "normal": {
+                    "width": 16.175226586102717
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "ALK102C2",
+            "target": "SEL103C2",
+            "value": 91,
+            "lineStyle": {
+                "normal": {
+                    "width": 8.253776435045317
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "ALK101C2",
+            "target": "SEL102C2",
+            "value": 190,
+            "lineStyle": {
+                "normal": {
+                    "width": 15.132930513595166
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "ALK101C2",
+            "target": "SEL101C2",
+            "value": 34,
+            "lineStyle": {
+                "normal": {
+                    "width": 4.293051359516616
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "ALK102C2",
+            "target": "SEL101C2",
+            "value": 11,
+            "lineStyle": {
+                "normal": {
+                    "width": 2.694864048338369
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "ALK101C3",
+            "target": "SEL101C3",
+            "value": 33,
+            "lineStyle": {
+                "normal": {
+                    "width": 4.22356495468278
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "ALK102C3",
+            "target": "SEL102C3",
+            "value": 35,
+            "lineStyle": {
+                "normal": {
+                    "width": 4.362537764350453
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "ALK101C3",
+            "target": "SEL103C3",
+            "value": 28,
+            "lineStyle": {
+                "normal": {
+                    "width": 3.876132930513595
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "ALK102C3",
+            "target": "SEL101C3",
+            "value": 13,
+            "lineStyle": {
+                "normal": {
+                    "width": 2.8338368580060425
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "ALK102C3",
+            "target": "SEL103C3",
+            "value": 11,
+            "lineStyle": {
+                "normal": {
+                    "width": 2.694864048338369
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "ALK101C3",
+            "target": "SEL102C3",
+            "value": 43,
+            "lineStyle": {
+                "normal": {
+                    "width": 4.9184290030211475
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "ALK102outlier",
+            "target": "SEL102outlier",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 2.069486404833837
+                }
+            },
+            "category": "outlier"
+        },
+        {
+            "source": "ALK101outlier",
+            "target": "SEL102outlier",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 2.1389728096676737
+                }
+            },
+            "category": "outlier"
+        },
+        {
+            "source": "ALK101outlier",
+            "target": "SEL103outlier",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "outlier"
+        }
+    ],
+    "categories": [
+        {
+            "name": "C1"
+        },
+        {
+            "name": "C2"
+        },
+        {
+            "name": "C3"
+        },
+        {
+            "name": "outlier"
+        }
+    ]
+}
