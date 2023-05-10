@@ -1,0 +1,18 @@
+{
+    "nodes": [],
+    "links": [],
+    "categories": [
+        {
+            "name": "C1"
+        },
+        {
+            "name": "C2"
+        },
+        {
+            "name": "C3"
+        },
+        {
+            "name": "outlier"
+        }
+    ]
+}
