@@ -1,0 +1,1769 @@
+{
+    "nodes": [
+        {
+            "name": "INX101C1",
+            "x": 425,
+            "y": 240,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.3232131856380691130147734010)"
+            },
+            "value": "9.422907488986784140969162996",
+            "category": "C1"
+        },
+        {
+            "name": "LAS102C1",
+            "x": 1050,
+            "y": 390,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.1)"
+            },
+            "value": "-0.6920821114369501466275659824",
+            "category": "C1"
+        },
+        {
+            "name": "LIR106C1",
+            "x": 1300,
+            "y": 440,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.2754553874652670577338684779)"
+            },
+            "value": "6.274261603375527426160337553",
+            "category": "C1"
+        },
+        {
+            "name": "INX104C1",
+            "x": 425,
+            "y": 390,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.2264166928905134225751010627)"
+            },
+            "value": "6.600917431192660550458715596",
+            "category": "C1"
+        },
+        {
+            "name": "LIR102C1",
+            "x": 1300,
+            "y": 240,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.8854858056777289084366253499)"
+            },
+            "value": "20.16939890710382513661202186",
+            "category": "C1"
+        },
+        {
+            "name": "INX105C1",
+            "x": 425,
+            "y": 440,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.3985673726135417398196173643)"
+            },
+            "value": "11.61977186311787072243346008",
+            "category": "C1"
+        },
+        {
+            "name": "LAS103C1",
+            "x": 1050,
+            "y": 465,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.3194444444444444444444444445)"
+            },
+            "value": "0.4693877551020408163265306122",
+            "category": "C1"
+        },
+        {
+            "name": "INX102C1",
+            "x": 425,
+            "y": 290,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.3924214321168264583714308107)"
+            },
+            "value": "11.44059405940594059405940594",
+            "category": "C1"
+        },
+        {
+            "name": "LAS101C1",
+            "x": 1050,
+            "y": 315,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.2852120792992162286768095897)"
+            },
+            "value": "0.4190871369294605809128630705",
+            "category": "C1"
+        },
+        {
+            "name": "LIR107C1",
+            "x": 1300,
+            "y": 490,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1747446834074252072569986783)"
+            },
+            "value": "3.980295566502463054187192118",
+            "category": "C1"
+        },
+        {
+            "name": "LIR103C1",
+            "x": 1300,
+            "y": 290,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.9560975609756097560975609756)"
+            },
+            "value": "21.77777777777777777777777778",
+            "category": "C1"
+        },
+        {
+            "name": "INX103C1",
+            "x": 425,
+            "y": 340,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.3101071563189919767379247214)"
+            },
+            "value": "9.040816326530612244897959184",
+            "category": "C1"
+        },
+        {
+            "name": "LIR104C1",
+            "x": 1300,
+            "y": 340,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.4033892936331960722204624643)"
+            },
+            "value": "9.188311688311688311688311688",
+            "category": "C1"
+        },
+        {
+            "name": "INX107C1",
+            "x": 425,
+            "y": 490,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.9656992084432717678100263852)"
+            },
+            "value": "28.15384615384615384615384615",
+            "category": "C1"
+        },
+        {
+            "name": "INX102C2",
+            "x": 425,
+            "y": 290,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.1673960252698078441695182943)"
+            },
+            "value": "15.53435114503816793893129771",
+            "category": "C2"
+        },
+        {
+            "name": "LAS102C2",
+            "x": 1050,
+            "y": 390,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.2817478577195891683524192358)"
+            },
+            "value": "0.4310954063604240282685512367",
+            "category": "C2"
+        },
+        {
+            "name": "LIR103C2",
+            "x": 1300,
+            "y": 290,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": "0.3333333333333333333333333333",
+            "category": "C2"
+        },
+        {
+            "name": "INX103C2",
+            "x": 425,
+            "y": 340,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.1)"
+            },
+            "value": "7.833333333333333333333333333",
+            "category": "C2"
+        },
+        {
+            "name": "LAS103C2",
+            "x": 1050,
+            "y": 465,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.3464373464373464373464373465)"
+            },
+            "value": "0.5300751879699248120300751880",
+            "category": "C2"
+        },
+        {
+            "name": "LIR106C2",
+            "x": 1300,
+            "y": 440,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.4585597036968202500389959940)"
+            },
+            "value": "11.42372881355932203389830508",
+            "category": "C2"
+        },
+        {
+            "name": "LIR102C2",
+            "x": 1300,
+            "y": 240,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.9598590170354415508126101429)"
+            },
+            "value": "23.91219512195121951219512195",
+            "category": "C2"
+        },
+        {
+            "name": "INX101C2",
+            "x": 425,
+            "y": 240,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.1)"
+            },
+            "value": "6.874074074074074074074074074",
+            "category": "C2"
+        },
+        {
+            "name": "LIR107C2",
+            "x": 1300,
+            "y": 490,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1557470139024867828470726454)"
+            },
+            "value": "3.88",
+            "category": "C2"
+        },
+        {
+            "name": "INX104C2",
+            "x": 425,
+            "y": 390,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.1)"
+            },
+            "value": "4.477987421383647798742138365",
+            "category": "C2"
+        },
+        {
+            "name": "LIR104C2",
+            "x": 1300,
+            "y": 340,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1219839871200748428083458434)"
+            },
+            "value": "3.038888888888888888888888889",
+            "category": "C2"
+        },
+        {
+            "name": "LAS101C2",
+            "x": 1050,
+            "y": 315,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.1)"
+            },
+            "value": "-0.4634146341463414634146341463",
+            "category": "C2"
+        },
+        {
+            "name": "INX105C2",
+            "x": 425,
+            "y": 440,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.1488095238095238095238095238)"
+            },
+            "value": "13.80952380952380952380952381",
+            "category": "C2"
+        },
+        {
+            "name": "INX107C2",
+            "x": 425,
+            "y": 490,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.9892241379310344827586206897)"
+            },
+            "value": "91.8",
+            "category": "C2"
+        },
+        {
+            "name": "LIR105C2",
+            "x": 1300,
+            "y": 390,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": "0.0",
+            "category": "C2"
+        },
+        {
+            "name": "INX105C3",
+            "x": 425,
+            "y": 440,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.2489557226399331662489557227)"
+            },
+            "value": "15.68421052631578947368421053",
+            "category": "C3"
+        },
+        {
+            "name": "LAS102C3",
+            "x": 1050,
+            "y": 390,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.1594328703703703703703703704)"
+            },
+            "value": "0.3020833333333333333333333333",
+            "category": "C3"
+        },
+        {
+            "name": "LIR102C3",
+            "x": 1300,
+            "y": 240,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.9588014981273408239700374532)"
+            },
+            "value": "23.27272727272727272727272727",
+            "category": "C3"
+        },
+        {
+            "name": "INX101C3",
+            "x": 425,
+            "y": 240,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.1)"
+            },
+            "value": "5.263157894736842105263157895",
+            "category": "C3"
+        },
+        {
+            "name": "LIR104C3",
+            "x": 1300,
+            "y": 340,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1410736579275905118601747815)"
+            },
+            "value": "3.424242424242424242424242424",
+            "category": "C3"
+        },
+        {
+            "name": "LAS101C3",
+            "x": 1050,
+            "y": 315,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.3958333333333333333333333334)"
+            },
+            "value": "0.75",
+            "category": "C3"
+        },
+        {
+            "name": "LIR106C3",
+            "x": 1300,
+            "y": 440,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.3178170144462279293739967898)"
+            },
+            "value": "7.714285714285714285714285714",
+            "category": "C3"
+        },
+        {
+            "name": "INX104C3",
+            "x": 425,
+            "y": 390,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.2990810359231411862990810359)"
+            },
+            "value": "18.84210526315789473684210526",
+            "category": "C3"
+        },
+        {
+            "name": "LIR107C3",
+            "x": 1300,
+            "y": 490,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": "1.914285714285714285714285714",
+            "category": "C3"
+        },
+        {
+            "name": "INX103C3",
+            "x": 425,
+            "y": 340,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.1)"
+            },
+            "value": "3.416666666666666666666666667",
+            "category": "C3"
+        },
+        {
+            "name": "INX107C3",
+            "x": 425,
+            "y": 490,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.9841269841269841269841269841)"
+            },
+            "value": "62.0",
+            "category": "C3"
+        },
+        {
+            "name": "INX102C3",
+            "x": 425,
+            "y": 290,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.2513227513227513227513227513)"
+            },
+            "value": "15.83333333333333333333333333",
+            "category": "C3"
+        },
+        {
+            "name": "LAS103C3",
+            "x": 1050,
+            "y": 465,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.4722222222222222222222222222)"
+            },
+            "value": "0.8947368421052631578947368421",
+            "category": "C3"
+        },
+        {
+            "name": "LIR103C3",
+            "x": 1300,
+            "y": 290,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": "1.111111111111111111111111111",
+            "category": "C3"
+        },
+        {
+            "name": "INX104outlier",
+            "x": 425,
+            "y": 390,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.9870129870129870129870129870)"
+            },
+            "value": "76.0",
+            "category": "outlier"
+        },
+        {
+            "name": "LAS103outlier",
+            "x": 1050,
+            "y": 465,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.1)"
+            },
+            "value": "0.0",
+            "category": "outlier"
+        },
+        {
+            "name": "LIR104outlier",
+            "x": 1300,
+            "y": 340,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": "0.0",
+            "category": "outlier"
+        },
+        {
+            "name": "INX105outlier",
+            "x": 425,
+            "y": 440,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.2164502164502164502164502165)"
+            },
+            "value": "16.66666666666666666666666667",
+            "category": "outlier"
+        },
+        {
+            "name": "LAS101outlier",
+            "x": 1050,
+            "y": 315,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.1)"
+            },
+            "value": "0.0",
+            "category": "outlier"
+        },
+        {
+            "name": "INX101outlier",
+            "x": 425,
+            "y": 240,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.1)"
+            },
+            "value": "0.0",
+            "category": "outlier"
+        },
+        {
+            "name": "LAS102outlier",
+            "x": 1050,
+            "y": 390,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 255, 0, 0.4285714285714285714285714286)"
+            },
+            "value": "0.75",
+            "category": "outlier"
+        },
+        {
+            "name": "LIR102outlier",
+            "x": 1300,
+            "y": 240,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.375)"
+            },
+            "value": "1.5",
+            "category": "outlier"
+        },
+        {
+            "name": "LIR106outlier",
+            "x": 1300,
+            "y": 440,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.75)"
+            },
+            "value": "3.0",
+            "category": "outlier"
+        },
+        {
+            "name": "LIR107outlier",
+            "x": 1300,
+            "y": 490,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": "0.0",
+            "category": "outlier"
+        }
+    ],
+    "links": [
+        {
+            "source": "INX101C1",
+            "target": "LAS102C1",
+            "value": 160,
+            "lineStyle": {
+                "normal": {
+                    "width": 15.645522388059701
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "LAS102C1",
+            "target": "LIR106C1",
+            "value": 113,
+            "lineStyle": {
+                "normal": {
+                    "width": 11.611940298507463
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "INX104C1",
+            "target": "LAS102C1",
+            "value": 126,
+            "lineStyle": {
+                "normal": {
+                    "width": 12.727611940298507
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "LAS102C1",
+            "target": "LIR102C1",
+            "value": 269,
+            "lineStyle": {
+                "normal": {
+                    "width": 25
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "INX105C1",
+            "target": "LAS103C1",
+            "value": 32,
+            "lineStyle": {
+                "normal": {
+                    "width": 4.66044776119403
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "LAS103C1",
+            "target": "LIR106C1",
+            "value": 64,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.406716417910448
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "INX102C1",
+            "target": "LAS103C1",
+            "value": 41,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.432835820895522
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "INX105C1",
+            "target": "LAS101C1",
+            "value": 154,
+            "lineStyle": {
+                "normal": {
+                    "width": 15.130597014925375
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "LAS101C1",
+            "target": "LIR107C1",
+            "value": 51,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.291044776119403
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "LAS103C1",
+            "target": "LIR107C1",
+            "value": 40,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.347014925373134
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "INX102C1",
+            "target": "LAS102C1",
+            "value": 147,
+            "lineStyle": {
+                "normal": {
+                    "width": 14.529850746268657
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "LAS102C1",
+            "target": "LIR103C1",
+            "value": 36,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.003731343283581
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "INX103C1",
+            "target": "LAS102C1",
+            "value": 170,
+            "lineStyle": {
+                "normal": {
+                    "width": 16.503731343283583
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "LAS102C1",
+            "target": "LIR104C1",
+            "value": 152,
+            "lineStyle": {
+                "normal": {
+                    "width": 14.958955223880597
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "INX104C1",
+            "target": "LAS103C1",
+            "value": 75,
+            "lineStyle": {
+                "normal": {
+                    "width": 8.350746268656717
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "LAS103C1",
+            "target": "LIR102C1",
+            "value": 51,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.291044776119403
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "INX101C1",
+            "target": "LAS103C1",
+            "value": 44,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.690298507462686
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "LAS101C1",
+            "target": "LIR106C1",
+            "value": 60,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.063432835820896
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "LAS101C1",
+            "target": "LIR104C1",
+            "value": 75,
+            "lineStyle": {
+                "normal": {
+                    "width": 8.350746268656717
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "INX104C1",
+            "target": "LAS101C1",
+            "value": 17,
+            "lineStyle": {
+                "normal": {
+                    "width": 3.373134328358209
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "LAS102C1",
+            "target": "LIR107C1",
+            "value": 112,
+            "lineStyle": {
+                "normal": {
+                    "width": 11.526119402985074
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "LAS103C1",
+            "target": "LIR104C1",
+            "value": 81,
+            "lineStyle": {
+                "normal": {
+                    "width": 8.865671641791044
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "INX103C1",
+            "target": "LAS103C1",
+            "value": 53,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.462686567164179
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "INX103C1",
+            "target": "LAS101C1",
+            "value": 22,
+            "lineStyle": {
+                "normal": {
+                    "width": 3.8022388059701493
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "LAS101C1",
+            "target": "LIR103C1",
+            "value": 9,
+            "lineStyle": {
+                "normal": {
+                    "width": 2.6865671641791042
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "INX105C1",
+            "target": "LAS102C1",
+            "value": 77,
+            "lineStyle": {
+                "normal": {
+                    "width": 8.522388059701491
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "INX107C1",
+            "target": "LAS102C1",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 2.0858208955223883
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "INX107C1",
+            "target": "LAS101C1",
+            "value": 11,
+            "lineStyle": {
+                "normal": {
+                    "width": 2.8582089552238807
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "INX102C1",
+            "target": "LAS101C1",
+            "value": 14,
+            "lineStyle": {
+                "normal": {
+                    "width": 3.115671641791045
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "LAS101C1",
+            "target": "LIR102C1",
+            "value": 46,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.861940298507463
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "LAS103C1",
+            "target": "LIR103C1",
+            "value": 9,
+            "lineStyle": {
+                "normal": {
+                    "width": 2.6865671641791042
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "INX101C1",
+            "target": "LAS101C1",
+            "value": 23,
+            "lineStyle": {
+                "normal": {
+                    "width": 3.888059701492537
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "INX102C2",
+            "target": "LAS102C2",
+            "value": 73,
+            "lineStyle": {
+                "normal": {
+                    "width": 8.17910447761194
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "LAS102C2",
+            "target": "LIR103C2",
+            "value": 16,
+            "lineStyle": {
+                "normal": {
+                    "width": 3.2873134328358207
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "INX103C2",
+            "target": "LAS103C2",
+            "value": 60,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.063432835820896
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "LAS103C2",
+            "target": "LIR106C2",
+            "value": 46,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.861940298507463
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "LAS102C2",
+            "target": "LIR102C2",
+            "value": 103,
+            "lineStyle": {
+                "normal": {
+                    "width": 10.753731343283581
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "INX101C2",
+            "target": "LAS102C2",
+            "value": 81,
+            "lineStyle": {
+                "normal": {
+                    "width": 8.865671641791044
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "LAS102C2",
+            "target": "LIR107C2",
+            "value": 53,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.462686567164179
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "INX104C2",
+            "target": "LAS103C2",
+            "value": 90,
+            "lineStyle": {
+                "normal": {
+                    "width": 9.638059701492537
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "LAS103C2",
+            "target": "LIR104C2",
+            "value": 97,
+            "lineStyle": {
+                "normal": {
+                    "width": 10.238805970149253
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "LAS102C2",
+            "target": "LIR104C2",
+            "value": 58,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.891791044776119
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "INX104C2",
+            "target": "LAS101C2",
+            "value": 14,
+            "lineStyle": {
+                "normal": {
+                    "width": 3.115671641791045
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "LAS101C2",
+            "target": "LIR102C2",
+            "value": 21,
+            "lineStyle": {
+                "normal": {
+                    "width": 3.716417910447761
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "INX101C2",
+            "target": "LAS103C2",
+            "value": 47,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.947761194029851
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "LAS103C2",
+            "target": "LIR102C2",
+            "value": 81,
+            "lineStyle": {
+                "normal": {
+                    "width": 8.865671641791044
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "INX105C2",
+            "target": "LAS103C2",
+            "value": 16,
+            "lineStyle": {
+                "normal": {
+                    "width": 3.2873134328358207
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "INX103C2",
+            "target": "LAS102C2",
+            "value": 62,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.235074626865671
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "INX102C2",
+            "target": "LAS103C2",
+            "value": 53,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.462686567164179
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "LAS103C2",
+            "target": "LIR107C2",
+            "value": 32,
+            "lineStyle": {
+                "normal": {
+                    "width": 4.66044776119403
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "INX105C2",
+            "target": "LAS102C2",
+            "value": 11,
+            "lineStyle": {
+                "normal": {
+                    "width": 2.8582089552238807
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "INX103C2",
+            "target": "LAS101C2",
+            "value": 16,
+            "lineStyle": {
+                "normal": {
+                    "width": 3.2873134328358207
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "LAS102C2",
+            "target": "LIR106C2",
+            "value": 52,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.376865671641791
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "INX104C2",
+            "target": "LAS102C2",
+            "value": 55,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.634328358208955
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "LAS101C2",
+            "target": "LIR106C2",
+            "value": 20,
+            "lineStyle": {
+                "normal": {
+                    "width": 3.630597014925373
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "INX105C2",
+            "target": "LAS101C2",
+            "value": 36,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.003731343283581
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "LAS101C2",
+            "target": "LIR104C2",
+            "value": 25,
+            "lineStyle": {
+                "normal": {
+                    "width": 4.059701492537313
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "INX107C2",
+            "target": "LAS101C2",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 2.2574626865671643
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "INX102C2",
+            "target": "LAS101C2",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 2.343283582089552
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "INX101C2",
+            "target": "LAS101C2",
+            "value": 7,
+            "lineStyle": {
+                "normal": {
+                    "width": 2.514925373134328
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "LAS101C2",
+            "target": "LIR107C2",
+            "value": 15,
+            "lineStyle": {
+                "normal": {
+                    "width": 3.201492537313433
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "INX107C2",
+            "target": "LAS102C2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "LAS103C2",
+            "target": "LIR103C2",
+            "value": 10,
+            "lineStyle": {
+                "normal": {
+                    "width": 2.7723880597014925
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "LAS101C2",
+            "target": "LIR103C2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "LAS102C2",
+            "target": "LIR105C2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "INX105C3",
+            "target": "LAS102C3",
+            "value": 21,
+            "lineStyle": {
+                "normal": {
+                    "width": 3.716417910447761
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "LAS102C3",
+            "target": "LIR102C3",
+            "value": 37,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.08955223880597
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "INX101C3",
+            "target": "LAS102C3",
+            "value": 17,
+            "lineStyle": {
+                "normal": {
+                    "width": 3.373134328358209
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "LAS102C3",
+            "target": "LIR104C3",
+            "value": 17,
+            "lineStyle": {
+                "normal": {
+                    "width": 3.373134328358209
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "INX105C3",
+            "target": "LAS101C3",
+            "value": 32,
+            "lineStyle": {
+                "normal": {
+                    "width": 4.66044776119403
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "LAS101C3",
+            "target": "LIR102C3",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 2.343283582089552
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "LAS102C3",
+            "target": "LIR106C3",
+            "value": 17,
+            "lineStyle": {
+                "normal": {
+                    "width": 3.373134328358209
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "INX104C3",
+            "target": "LAS102C3",
+            "value": 14,
+            "lineStyle": {
+                "normal": {
+                    "width": 3.115671641791045
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "LAS102C3",
+            "target": "LIR107C3",
+            "value": 21,
+            "lineStyle": {
+                "normal": {
+                    "width": 3.716417910447761
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "INX103C3",
+            "target": "LAS102C3",
+            "value": 16,
+            "lineStyle": {
+                "normal": {
+                    "width": 3.2873134328358207
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "INX107C3",
+            "target": "LAS101C3",
+            "value": 12,
+            "lineStyle": {
+                "normal": {
+                    "width": 2.9440298507462686
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "LAS101C3",
+            "target": "LIR106C3",
+            "value": 17,
+            "lineStyle": {
+                "normal": {
+                    "width": 3.373134328358209
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "INX102C3",
+            "target": "LAS102C3",
+            "value": 21,
+            "lineStyle": {
+                "normal": {
+                    "width": 3.716417910447761
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "INX105C3",
+            "target": "LAS103C3",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 2.2574626865671643
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "LAS103C3",
+            "target": "LIR102C3",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 2.0858208955223883
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "INX107C3",
+            "target": "LAS102C3",
+            "value": 7,
+            "lineStyle": {
+                "normal": {
+                    "width": 2.514925373134328
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "LAS101C3",
+            "target": "LIR104C3",
+            "value": 11,
+            "lineStyle": {
+                "normal": {
+                    "width": 2.8582089552238807
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "INX102C3",
+            "target": "LAS103C3",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 2.0858208955223883
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "LAS103C3",
+            "target": "LIR103C3",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 2.0858208955223883
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "LAS101C3",
+            "target": "LIR107C3",
+            "value": 12,
+            "lineStyle": {
+                "normal": {
+                    "width": 2.9440298507462686
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "INX103C3",
+            "target": "LAS103C3",
+            "value": 6,
+            "lineStyle": {
+                "normal": {
+                    "width": 2.4291044776119404
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "LAS103C3",
+            "target": "LIR107C3",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 2.0858208955223883
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "LAS103C3",
+            "target": "LIR104C3",
+            "value": 5,
+            "lineStyle": {
+                "normal": {
+                    "width": 2.343283582089552
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "INX101C3",
+            "target": "LAS103C3",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 2.0858208955223883
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "LAS103C3",
+            "target": "LIR106C3",
+            "value": 8,
+            "lineStyle": {
+                "normal": {
+                    "width": 2.6007462686567164
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "LAS102C3",
+            "target": "LIR103C3",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 2.2574626865671643
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "INX103C3",
+            "target": "LAS101C3",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 2.0858208955223883
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "INX104C3",
+            "target": "LAS103C3",
+            "value": 4,
+            "lineStyle": {
+                "normal": {
+                    "width": 2.2574626865671643
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "INX107C3",
+            "target": "LAS103C3",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "LAS101C3",
+            "target": "LIR103C3",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 2.171641791044776
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "INX102C3",
+            "target": "LAS101C3",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "INX104C3",
+            "target": "LAS101C3",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "INX104outlier",
+            "target": "LAS103outlier",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "outlier"
+        },
+        {
+            "source": "LAS103outlier",
+            "target": "LIR104outlier",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "outlier"
+        },
+        {
+            "source": "INX105outlier",
+            "target": "LAS101outlier",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "outlier"
+        },
+        {
+            "source": "LAS101outlier",
+            "target": "LIR104outlier",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "outlier"
+        },
+        {
+            "source": "INX101outlier",
+            "target": "LAS102outlier",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 2.0858208955223883
+                }
+            },
+            "category": "outlier"
+        },
+        {
+            "source": "LAS102outlier",
+            "target": "LIR102outlier",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 2.0858208955223883
+                }
+            },
+            "category": "outlier"
+        },
+        {
+            "source": "INX105outlier",
+            "target": "LAS102outlier",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 2.0858208955223883
+                }
+            },
+            "category": "outlier"
+        },
+        {
+            "source": "LAS102outlier",
+            "target": "LIR106outlier",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "outlier"
+        },
+        {
+            "source": "LAS102outlier",
+            "target": "LIR107outlier",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "outlier"
+        }
+    ],
+    "categories": [
+        {
+            "name": "C1"
+        },
+        {
+            "name": "C2"
+        },
+        {
+            "name": "C3"
+        },
+        {
+            "name": "outlier"
+        }
+    ]
+}

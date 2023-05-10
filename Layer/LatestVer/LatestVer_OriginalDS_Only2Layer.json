@@ -1,0 +1,724 @@
+{
+    "nodes": [
+        {
+            "name": "ALK102C1",
+            "x": 50,
+            "y": 440,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.6527590847913862718707940781)"
+            },
+            "value": "1.879844961240310077519379845",
+            "category": "C1"
+        },
+        {
+            "name": "LIR106C1",
+            "x": 1300,
+            "y": 440,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.2754553874652670577338684779)"
+            },
+            "value": "6.274261603375527426160337553",
+            "category": "C1"
+        },
+        {
+            "name": "LIR102C1",
+            "x": 1300,
+            "y": 240,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.8854858056777289084366253499)"
+            },
+            "value": "20.16939890710382513661202186",
+            "category": "C1"
+        },
+        {
+            "name": "ALK101C1",
+            "x": 50,
+            "y": 340,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.5682608228950779875979489549)"
+            },
+            "value": "1.636503067484662576687116564",
+            "category": "C1"
+        },
+        {
+            "name": "LIR107C1",
+            "x": 1300,
+            "y": 490,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1747446834074252072569986783)"
+            },
+            "value": "3.980295566502463054187192118",
+            "category": "C1"
+        },
+        {
+            "name": "LIR103C1",
+            "x": 1300,
+            "y": 290,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.9560975609756097560975609756)"
+            },
+            "value": "21.77777777777777777777777778",
+            "category": "C1"
+        },
+        {
+            "name": "LIR104C1",
+            "x": 1300,
+            "y": 340,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.4033892936331960722204624643)"
+            },
+            "value": "9.188311688311688311688311688",
+            "category": "C1"
+        },
+        {
+            "name": "ALK101C2",
+            "x": 50,
+            "y": 340,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.5185735512630014858841010402)"
+            },
+            "value": "1.077160493827160493827160494",
+            "category": "C2"
+        },
+        {
+            "name": "LIR103C2",
+            "x": 1300,
+            "y": 290,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": "0.3333333333333333333333333333",
+            "category": "C2"
+        },
+        {
+            "name": "ALK102C2",
+            "x": 50,
+            "y": 440,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.3951774106896535034436695045)"
+            },
+            "value": "0.8208469055374592833876221498",
+            "category": "C2"
+        },
+        {
+            "name": "LIR106C2",
+            "x": 1300,
+            "y": 440,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.4585597036968202500389959940)"
+            },
+            "value": "11.42372881355932203389830508",
+            "category": "C2"
+        },
+        {
+            "name": "LIR102C2",
+            "x": 1300,
+            "y": 240,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.9598590170354415508126101429)"
+            },
+            "value": "23.91219512195121951219512195",
+            "category": "C2"
+        },
+        {
+            "name": "LIR107C2",
+            "x": 1300,
+            "y": 490,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1557470139024867828470726454)"
+            },
+            "value": "3.88",
+            "category": "C2"
+        },
+        {
+            "name": "LIR104C2",
+            "x": 1300,
+            "y": 340,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1219839871200748428083458434)"
+            },
+            "value": "3.038888888888888888888888889",
+            "category": "C2"
+        },
+        {
+            "name": "LIR105C2",
+            "x": 1300,
+            "y": 390,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": "0.0",
+            "category": "C2"
+        },
+        {
+            "name": "ALK101C3",
+            "x": 50,
+            "y": 340,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.4991067675493905002101723413)"
+            },
+            "value": "1.548076923076923076923076923",
+            "category": "C3"
+        },
+        {
+            "name": "LIR102C3",
+            "x": 1300,
+            "y": 240,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.9588014981273408239700374532)"
+            },
+            "value": "23.27272727272727272727272727",
+            "category": "C3"
+        },
+        {
+            "name": "ALK102C3",
+            "x": 50,
+            "y": 440,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.6775956284153005464480874317)"
+            },
+            "value": "2.101694915254237288135593220",
+            "category": "C3"
+        },
+        {
+            "name": "LIR104C3",
+            "x": 1300,
+            "y": 340,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1410736579275905118601747815)"
+            },
+            "value": "3.424242424242424242424242424",
+            "category": "C3"
+        },
+        {
+            "name": "LIR106C3",
+            "x": 1300,
+            "y": 440,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.3178170144462279293739967898)"
+            },
+            "value": "7.714285714285714285714285714",
+            "category": "C3"
+        },
+        {
+            "name": "LIR107C3",
+            "x": 1300,
+            "y": 490,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": "1.914285714285714285714285714",
+            "category": "C3"
+        },
+        {
+            "name": "LIR103C3",
+            "x": 1300,
+            "y": 290,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": "1.111111111111111111111111111",
+            "category": "C3"
+        },
+        {
+            "name": "ALK102outlier",
+            "x": 50,
+            "y": 440,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": "0.0",
+            "category": "outlier"
+        },
+        {
+            "name": "LIR104outlier",
+            "x": 1300,
+            "y": 340,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": "0.0",
+            "category": "outlier"
+        },
+        {
+            "name": "ALK101outlier",
+            "x": 50,
+            "y": 340,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": "0.0",
+            "category": "outlier"
+        },
+        {
+            "name": "LIR102outlier",
+            "x": 1300,
+            "y": 240,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.375)"
+            },
+            "value": "1.5",
+            "category": "outlier"
+        },
+        {
+            "name": "LIR106outlier",
+            "x": 1300,
+            "y": 440,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.75)"
+            },
+            "value": "3.0",
+            "category": "outlier"
+        },
+        {
+            "name": "LIR107outlier",
+            "x": 1300,
+            "y": 490,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": "0.0",
+            "category": "outlier"
+        }
+    ],
+    "links": [
+        {
+            "source": "ALK102C1",
+            "target": "LIR106C1",
+            "value": 109,
+            "lineStyle": {
+                "normal": {
+                    "width": 14.482412060301508
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "ALK102C1",
+            "target": "LIR102C1",
+            "value": 166,
+            "lineStyle": {
+                "normal": {
+                    "width": 21.070351758793972
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "ALK101C1",
+            "target": "LIR106C1",
+            "value": 128,
+            "lineStyle": {
+                "normal": {
+                    "width": 16.678391959798994
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "ALK101C1",
+            "target": "LIR107C1",
+            "value": 111,
+            "lineStyle": {
+                "normal": {
+                    "width": 14.713567839195978
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "ALK102C1",
+            "target": "LIR107C1",
+            "value": 92,
+            "lineStyle": {
+                "normal": {
+                    "width": 12.517587939698492
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "ALK101C1",
+            "target": "LIR103C1",
+            "value": 43,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.8542713567839195
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "ALK101C1",
+            "target": "LIR102C1",
+            "value": 200,
+            "lineStyle": {
+                "normal": {
+                    "width": 25
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "ALK102C1",
+            "target": "LIR104C1",
+            "value": 138,
+            "lineStyle": {
+                "normal": {
+                    "width": 17.834170854271356
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "ALK101C1",
+            "target": "LIR104C1",
+            "value": 170,
+            "lineStyle": {
+                "normal": {
+                    "width": 21.532663316582916
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "ALK102C1",
+            "target": "LIR103C1",
+            "value": 11,
+            "lineStyle": {
+                "normal": {
+                    "width": 3.1557788944723617
+                }
+            },
+            "category": "C1"
+        },
+        {
+            "source": "ALK101C2",
+            "target": "LIR103C2",
+            "value": 10,
+            "lineStyle": {
+                "normal": {
+                    "width": 3.040201005025126
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "ALK102C2",
+            "target": "LIR106C2",
+            "value": 44,
+            "lineStyle": {
+                "normal": {
+                    "width": 6.969849246231155
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "ALK102C2",
+            "target": "LIR102C2",
+            "value": 102,
+            "lineStyle": {
+                "normal": {
+                    "width": 13.673366834170853
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "ALK102C2",
+            "target": "LIR107C2",
+            "value": 48,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.432160804020101
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "ALK101C2",
+            "target": "LIR106C2",
+            "value": 74,
+            "lineStyle": {
+                "normal": {
+                    "width": 10.43718592964824
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "ALK102C2",
+            "target": "LIR104C2",
+            "value": 96,
+            "lineStyle": {
+                "normal": {
+                    "width": 12.979899497487438
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "ALK101C2",
+            "target": "LIR104C2",
+            "value": 84,
+            "lineStyle": {
+                "normal": {
+                    "width": 11.592964824120603
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "ALK101C2",
+            "target": "LIR102C2",
+            "value": 103,
+            "lineStyle": {
+                "normal": {
+                    "width": 13.78894472361809
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "ALK101C2",
+            "target": "LIR107C2",
+            "value": 52,
+            "lineStyle": {
+                "normal": {
+                    "width": 7.894472361809045
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "ALK102C2",
+            "target": "LIR103C2",
+            "value": 17,
+            "lineStyle": {
+                "normal": {
+                    "width": 3.849246231155779
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "ALK101C2",
+            "target": "LIR105C2",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "C2"
+        },
+        {
+            "source": "ALK101C3",
+            "target": "LIR102C3",
+            "value": 27,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.005025125628141
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "ALK102C3",
+            "target": "LIR102C3",
+            "value": 17,
+            "lineStyle": {
+                "normal": {
+                    "width": 3.849246231155779
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "ALK102C3",
+            "target": "LIR104C3",
+            "value": 11,
+            "lineStyle": {
+                "normal": {
+                    "width": 3.1557788944723617
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "ALK101C3",
+            "target": "LIR106C3",
+            "value": 29,
+            "lineStyle": {
+                "normal": {
+                    "width": 5.236180904522612
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "ALK102C3",
+            "target": "LIR107C3",
+            "value": 15,
+            "lineStyle": {
+                "normal": {
+                    "width": 3.618090452261306
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "ALK102C3",
+            "target": "LIR106C3",
+            "value": 13,
+            "lineStyle": {
+                "normal": {
+                    "width": 3.3869346733668344
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "ALK101C3",
+            "target": "LIR107C3",
+            "value": 20,
+            "lineStyle": {
+                "normal": {
+                    "width": 4.1959798994974875
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "ALK101C3",
+            "target": "LIR104C3",
+            "value": 22,
+            "lineStyle": {
+                "normal": {
+                    "width": 4.427135678391959
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "ALK102C3",
+            "target": "LIR103C3",
+            "value": 3,
+            "lineStyle": {
+                "normal": {
+                    "width": 2.2311557788944723
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "ALK101C3",
+            "target": "LIR103C3",
+            "value": 6,
+            "lineStyle": {
+                "normal": {
+                    "width": 2.577889447236181
+                }
+            },
+            "category": "C3"
+        },
+        {
+            "source": "ALK102outlier",
+            "target": "LIR104outlier",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "outlier"
+        },
+        {
+            "source": "ALK101outlier",
+            "target": "LIR104outlier",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "outlier"
+        },
+        {
+            "source": "ALK101outlier",
+            "target": "LIR102outlier",
+            "value": 2,
+            "lineStyle": {
+                "normal": {
+                    "width": 2.1155778894472363
+                }
+            },
+            "category": "outlier"
+        },
+        {
+            "source": "ALK101outlier",
+            "target": "LIR106outlier",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "outlier"
+        },
+        {
+            "source": "ALK102outlier",
+            "target": "LIR107outlier",
+            "value": 1,
+            "lineStyle": {
+                "normal": {
+                    "width": 2
+                }
+            },
+            "category": "outlier"
+        }
+    ],
+    "categories": [
+        {
+            "name": "C1"
+        },
+        {
+            "name": "C2"
+        },
+        {
+            "name": "C3"
+        },
+        {
+            "name": "outlier"
+        }
+    ]
+}
