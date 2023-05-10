@@ -12,36 +12,25 @@
             "category": "C1"
         },
         {
-            "name": "INX101C1",
-            "x": 425,
-            "y": 240,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.3232131856380691130147734010)"
-            },
-            "value": "9.422907488986784140969162996",
-            "category": "C1"
-        },
-        {
-            "name": "INX104C1",
-            "x": 425,
-            "y": 390,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.2264166928905134225751010627)"
-            },
-            "value": "6.600917431192660550458715596",
-            "category": "C1"
-        },
-        {
-            "name": "INX105C1",
-            "x": 425,
+            "name": "LIR106C1",
+            "x": 1300,
             "y": 440,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.3985673726135417398196173643)"
+                "color": "rgb(255, 0, 0, 0.2754553874652670577338684779)"
             },
-            "value": "11.61977186311787072243346008",
+            "value": "6.274261603375527426160337553",
+            "category": "C1"
+        },
+        {
+            "name": "LIR102C1",
+            "x": 1300,
+            "y": 240,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.8854858056777289084366253499)"
+            },
+            "value": "20.16939890710382513661202186",
             "category": "C1"
         },
         {
@@ -56,36 +45,36 @@
             "category": "C1"
         },
         {
-            "name": "INX102C1",
-            "x": 425,
-            "y": 290,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.3924214321168264583714308107)"
-            },
-            "value": "11.44059405940594059405940594",
-            "category": "C1"
-        },
-        {
-            "name": "INX103C1",
-            "x": 425,
-            "y": 340,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.3101071563189919767379247214)"
-            },
-            "value": "9.040816326530612244897959184",
-            "category": "C1"
-        },
-        {
-            "name": "INX107C1",
-            "x": 425,
+            "name": "LIR107C1",
+            "x": 1300,
             "y": 490,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.9656992084432717678100263852)"
+                "color": "rgb(255, 0, 0, 0.1747446834074252072569986783)"
             },
-            "value": "28.15384615384615384615384615",
+            "value": "3.980295566502463054187192118",
+            "category": "C1"
+        },
+        {
+            "name": "LIR103C1",
+            "x": 1300,
+            "y": 290,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.9560975609756097560975609756)"
+            },
+            "value": "21.77777777777777777777777778",
+            "category": "C1"
+        },
+        {
+            "name": "LIR104C1",
+            "x": 1300,
+            "y": 340,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.4033892936331960722204624643)"
+            },
+            "value": "9.188311688311688311688311688",
             "category": "C1"
         },
         {
@@ -100,14 +89,14 @@
             "category": "C2"
         },
         {
-            "name": "INX102C2",
-            "x": 425,
+            "name": "LIR103C2",
+            "x": 1300,
             "y": 290,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.1673960252698078441695182943)"
+                "color": "rgb(255, 0, 0, 0.1)"
             },
-            "value": "15.53435114503816793893129771",
+            "value": "0.3333333333333333333333333333",
             "category": "C2"
         },
         {
@@ -122,58 +111,58 @@
             "category": "C2"
         },
         {
-            "name": "INX103C2",
-            "x": 425,
-            "y": 340,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.1)"
-            },
-            "value": "7.833333333333333333333333333",
-            "category": "C2"
-        },
-        {
-            "name": "INX101C2",
-            "x": 425,
-            "y": 240,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.1)"
-            },
-            "value": "6.874074074074074074074074074",
-            "category": "C2"
-        },
-        {
-            "name": "INX104C2",
-            "x": 425,
-            "y": 390,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.1)"
-            },
-            "value": "4.477987421383647798742138365",
-            "category": "C2"
-        },
-        {
-            "name": "INX105C2",
-            "x": 425,
+            "name": "LIR106C2",
+            "x": 1300,
             "y": 440,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.1488095238095238095238095238)"
+                "color": "rgb(255, 0, 0, 0.4585597036968202500389959940)"
             },
-            "value": "13.80952380952380952380952381",
+            "value": "11.42372881355932203389830508",
             "category": "C2"
         },
         {
-            "name": "INX107C2",
-            "x": 425,
+            "name": "LIR102C2",
+            "x": 1300,
+            "y": 240,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.9598590170354415508126101429)"
+            },
+            "value": "23.91219512195121951219512195",
+            "category": "C2"
+        },
+        {
+            "name": "LIR107C2",
+            "x": 1300,
             "y": 490,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.9892241379310344827586206897)"
+                "color": "rgb(255, 0, 0, 0.1557470139024867828470726454)"
             },
-            "value": "91.8",
+            "value": "3.88",
+            "category": "C2"
+        },
+        {
+            "name": "LIR104C2",
+            "x": 1300,
+            "y": 340,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1219839871200748428083458434)"
+            },
+            "value": "3.038888888888888888888888889",
+            "category": "C2"
+        },
+        {
+            "name": "LIR105C2",
+            "x": 1300,
+            "y": 390,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": "0.0",
             "category": "C2"
         },
         {
@@ -188,14 +177,14 @@
             "category": "C3"
         },
         {
-            "name": "INX105C3",
-            "x": 425,
-            "y": 440,
+            "name": "LIR102C3",
+            "x": 1300,
+            "y": 240,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.2489557226399331662489557227)"
+                "color": "rgb(255, 0, 0, 0.9588014981273408239700374532)"
             },
-            "value": "15.68421052631578947368421053",
+            "value": "23.27272727272727272727272727",
             "category": "C3"
         },
         {
@@ -210,58 +199,47 @@
             "category": "C3"
         },
         {
-            "name": "INX101C3",
-            "x": 425,
-            "y": 240,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.1)"
-            },
-            "value": "5.263157894736842105263157895",
-            "category": "C3"
-        },
-        {
-            "name": "INX104C3",
-            "x": 425,
-            "y": 390,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.2990810359231411862990810359)"
-            },
-            "value": "18.84210526315789473684210526",
-            "category": "C3"
-        },
-        {
-            "name": "INX103C3",
-            "x": 425,
+            "name": "LIR104C3",
+            "x": 1300,
             "y": 340,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.1)"
+                "color": "rgb(255, 0, 0, 0.1410736579275905118601747815)"
             },
-            "value": "3.416666666666666666666666667",
+            "value": "3.424242424242424242424242424",
             "category": "C3"
         },
         {
-            "name": "INX107C3",
-            "x": 425,
+            "name": "LIR106C3",
+            "x": 1300,
+            "y": 440,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.3178170144462279293739967898)"
+            },
+            "value": "7.714285714285714285714285714",
+            "category": "C3"
+        },
+        {
+            "name": "LIR107C3",
+            "x": 1300,
             "y": 490,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.9841269841269841269841269841)"
+                "color": "rgb(255, 0, 0, 0.1)"
             },
-            "value": "62.0",
+            "value": "1.914285714285714285714285714",
             "category": "C3"
         },
         {
-            "name": "INX102C3",
-            "x": 425,
+            "name": "LIR103C3",
+            "x": 1300,
             "y": 290,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.2513227513227513227513227513)"
+                "color": "rgb(255, 0, 0, 0.1)"
             },
-            "value": "15.83333333333333333333333333",
+            "value": "1.111111111111111111111111111",
             "category": "C3"
         },
         {
@@ -276,14 +254,14 @@
             "category": "outlier"
         },
         {
-            "name": "INX104outlier",
-            "x": 425,
-            "y": 390,
+            "name": "LIR104outlier",
+            "x": 1300,
+            "y": 340,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.9870129870129870129870129870)"
+                "color": "rgb(255, 0, 0, 0.1)"
             },
-            "value": "76.0",
+            "value": "0.0",
             "category": "outlier"
         },
         {
@@ -298,470 +276,40 @@
             "category": "outlier"
         },
         {
-            "name": "INX105outlier",
-            "x": 425,
-            "y": 440,
-            "symbolSize": 30,
-            "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.2164502164502164502164502165)"
-            },
-            "value": "16.66666666666666666666666667",
-            "category": "outlier"
-        },
-        {
-            "name": "INX101outlier",
-            "x": 425,
+            "name": "LIR102outlier",
+            "x": 1300,
             "y": 240,
             "symbolSize": 30,
             "itemStyle": {
-                "color": "rgb(255, 255, 0, 0.1)"
+                "color": "rgb(255, 0, 0, 0.375)"
+            },
+            "value": "1.5",
+            "category": "outlier"
+        },
+        {
+            "name": "LIR106outlier",
+            "x": 1300,
+            "y": 440,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.75)"
+            },
+            "value": "3.0",
+            "category": "outlier"
+        },
+        {
+            "name": "LIR107outlier",
+            "x": 1300,
+            "y": 490,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
             },
             "value": "0.0",
             "category": "outlier"
         }
     ],
-    "links": [
-        {
-            "source": "ALK102C1",
-            "target": "INX101C1",
-            "value": 100,
-            "lineStyle": {
-                "normal": {
-                    "width": 14.176470588235293
-                }
-            },
-            "category": "C1"
-        },
-        {
-            "source": "ALK102C1",
-            "target": "INX104C1",
-            "value": 123,
-            "lineStyle": {
-                "normal": {
-                    "width": 17.00534759358289
-                }
-            },
-            "category": "C1"
-        },
-        {
-            "source": "ALK102C1",
-            "target": "INX105C1",
-            "value": 75,
-            "lineStyle": {
-                "normal": {
-                    "width": 11.101604278074866
-                }
-            },
-            "category": "C1"
-        },
-        {
-            "source": "ALK101C1",
-            "target": "INX102C1",
-            "value": 99,
-            "lineStyle": {
-                "normal": {
-                    "width": 14.053475935828876
-                }
-            },
-            "category": "C1"
-        },
-        {
-            "source": "ALK101C1",
-            "target": "INX105C1",
-            "value": 188,
-            "lineStyle": {
-                "normal": {
-                    "width": 25
-                }
-            },
-            "category": "C1"
-        },
-        {
-            "source": "ALK102C1",
-            "target": "INX102C1",
-            "value": 103,
-            "lineStyle": {
-                "normal": {
-                    "width": 14.545454545454545
-                }
-            },
-            "category": "C1"
-        },
-        {
-            "source": "ALK102C1",
-            "target": "INX103C1",
-            "value": 107,
-            "lineStyle": {
-                "normal": {
-                    "width": 15.037433155080215
-                }
-            },
-            "category": "C1"
-        },
-        {
-            "source": "ALK101C1",
-            "target": "INX104C1",
-            "value": 95,
-            "lineStyle": {
-                "normal": {
-                    "width": 13.56149732620321
-                }
-            },
-            "category": "C1"
-        },
-        {
-            "source": "ALK101C1",
-            "target": "INX101C1",
-            "value": 127,
-            "lineStyle": {
-                "normal": {
-                    "width": 17.49732620320856
-                }
-            },
-            "category": "C1"
-        },
-        {
-            "source": "ALK101C1",
-            "target": "INX103C1",
-            "value": 138,
-            "lineStyle": {
-                "normal": {
-                    "width": 18.850267379679146
-                }
-            },
-            "category": "C1"
-        },
-        {
-            "source": "ALK102C1",
-            "target": "INX107C1",
-            "value": 8,
-            "lineStyle": {
-                "normal": {
-                    "width": 2.8609625668449197
-                }
-            },
-            "category": "C1"
-        },
-        {
-            "source": "ALK101C1",
-            "target": "INX107C1",
-            "value": 5,
-            "lineStyle": {
-                "normal": {
-                    "width": 2.4919786096256686
-                }
-            },
-            "category": "C1"
-        },
-        {
-            "source": "ALK101C2",
-            "target": "INX102C2",
-            "value": 61,
-            "lineStyle": {
-                "normal": {
-                    "width": 9.379679144385026
-                }
-            },
-            "category": "C2"
-        },
-        {
-            "source": "ALK102C2",
-            "target": "INX103C2",
-            "value": 56,
-            "lineStyle": {
-                "normal": {
-                    "width": 8.764705882352942
-                }
-            },
-            "category": "C2"
-        },
-        {
-            "source": "ALK102C2",
-            "target": "INX102C2",
-            "value": 70,
-            "lineStyle": {
-                "normal": {
-                    "width": 10.48663101604278
-                }
-            },
-            "category": "C2"
-        },
-        {
-            "source": "ALK102C2",
-            "target": "INX101C2",
-            "value": 61,
-            "lineStyle": {
-                "normal": {
-                    "width": 9.379679144385026
-                }
-            },
-            "category": "C2"
-        },
-        {
-            "source": "ALK101C2",
-            "target": "INX103C2",
-            "value": 82,
-            "lineStyle": {
-                "normal": {
-                    "width": 11.962566844919786
-                }
-            },
-            "category": "C2"
-        },
-        {
-            "source": "ALK102C2",
-            "target": "INX104C2",
-            "value": 101,
-            "lineStyle": {
-                "normal": {
-                    "width": 14.299465240641712
-                }
-            },
-            "category": "C2"
-        },
-        {
-            "source": "ALK101C2",
-            "target": "INX101C2",
-            "value": 74,
-            "lineStyle": {
-                "normal": {
-                    "width": 10.97860962566845
-                }
-            },
-            "category": "C2"
-        },
-        {
-            "source": "ALK101C2",
-            "target": "INX104C2",
-            "value": 58,
-            "lineStyle": {
-                "normal": {
-                    "width": 9.010695187165776
-                }
-            },
-            "category": "C2"
-        },
-        {
-            "source": "ALK101C2",
-            "target": "INX105C2",
-            "value": 47,
-            "lineStyle": {
-                "normal": {
-                    "width": 7.657754010695188
-                }
-            },
-            "category": "C2"
-        },
-        {
-            "source": "ALK102C2",
-            "target": "INX105C2",
-            "value": 16,
-            "lineStyle": {
-                "normal": {
-                    "width": 3.8449197860962565
-                }
-            },
-            "category": "C2"
-        },
-        {
-            "source": "ALK101C2",
-            "target": "INX107C2",
-            "value": 2,
-            "lineStyle": {
-                "normal": {
-                    "width": 2.122994652406417
-                }
-            },
-            "category": "C2"
-        },
-        {
-            "source": "ALK102C2",
-            "target": "INX107C2",
-            "value": 3,
-            "lineStyle": {
-                "normal": {
-                    "width": 2.2459893048128343
-                }
-            },
-            "category": "C2"
-        },
-        {
-            "source": "ALK101C3",
-            "target": "INX105C3",
-            "value": 41,
-            "lineStyle": {
-                "normal": {
-                    "width": 6.919786096256685
-                }
-            },
-            "category": "C3"
-        },
-        {
-            "source": "ALK102C3",
-            "target": "INX101C3",
-            "value": 7,
-            "lineStyle": {
-                "normal": {
-                    "width": 2.737967914438503
-                }
-            },
-            "category": "C3"
-        },
-        {
-            "source": "ALK102C3",
-            "target": "INX105C3",
-            "value": 16,
-            "lineStyle": {
-                "normal": {
-                    "width": 3.8449197860962565
-                }
-            },
-            "category": "C3"
-        },
-        {
-            "source": "ALK101C3",
-            "target": "INX101C3",
-            "value": 12,
-            "lineStyle": {
-                "normal": {
-                    "width": 3.3529411764705883
-                }
-            },
-            "category": "C3"
-        },
-        {
-            "source": "ALK102C3",
-            "target": "INX104C3",
-            "value": 11,
-            "lineStyle": {
-                "normal": {
-                    "width": 3.229946524064171
-                }
-            },
-            "category": "C3"
-        },
-        {
-            "source": "ALK102C3",
-            "target": "INX103C3",
-            "value": 10,
-            "lineStyle": {
-                "normal": {
-                    "width": 3.106951871657754
-                }
-            },
-            "category": "C3"
-        },
-        {
-            "source": "ALK101C3",
-            "target": "INX104C3",
-            "value": 8,
-            "lineStyle": {
-                "normal": {
-                    "width": 2.8609625668449197
-                }
-            },
-            "category": "C3"
-        },
-        {
-            "source": "ALK102C3",
-            "target": "INX107C3",
-            "value": 9,
-            "lineStyle": {
-                "normal": {
-                    "width": 2.983957219251337
-                }
-            },
-            "category": "C3"
-        },
-        {
-            "source": "ALK101C3",
-            "target": "INX102C3",
-            "value": 18,
-            "lineStyle": {
-                "normal": {
-                    "width": 4.090909090909091
-                }
-            },
-            "category": "C3"
-        },
-        {
-            "source": "ALK102C3",
-            "target": "INX102C3",
-            "value": 6,
-            "lineStyle": {
-                "normal": {
-                    "width": 2.614973262032086
-                }
-            },
-            "category": "C3"
-        },
-        {
-            "source": "ALK101C3",
-            "target": "INX107C3",
-            "value": 11,
-            "lineStyle": {
-                "normal": {
-                    "width": 3.229946524064171
-                }
-            },
-            "category": "C3"
-        },
-        {
-            "source": "ALK101C3",
-            "target": "INX103C3",
-            "value": 14,
-            "lineStyle": {
-                "normal": {
-                    "width": 3.598930481283422
-                }
-            },
-            "category": "C3"
-        },
-        {
-            "source": "ALK102outlier",
-            "target": "INX104outlier",
-            "value": 1,
-            "lineStyle": {
-                "normal": {
-                    "width": 2
-                }
-            },
-            "category": "outlier"
-        },
-        {
-            "source": "ALK101outlier",
-            "target": "INX105outlier",
-            "value": 3,
-            "lineStyle": {
-                "normal": {
-                    "width": 2.2459893048128343
-                }
-            },
-            "category": "outlier"
-        },
-        {
-            "source": "ALK101outlier",
-            "target": "INX101outlier",
-            "value": 1,
-            "lineStyle": {
-                "normal": {
-                    "width": 2
-                }
-            },
-            "category": "outlier"
-        },
-        {
-            "source": "ALK102outlier",
-            "target": "INX101outlier",
-            "value": 1,
-            "lineStyle": {
-                "normal": {
-                    "width": 2
-                }
-            },
-            "category": "outlier"
-        }
-    ],
+    "links": [],
     "categories": [
         {
             "name": "C1"
