@@ -1,0 +1,239 @@
+{
+    "nodes": [
+        {
+            "name": "LIR106C1",
+            "x": 50,
+            "y": 440,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.4034810126582278481012658229)"
+            },
+            "value": "2.151898734177215189873417722",
+            "category": "C1"
+        },
+        {
+            "name": "LIR102C1",
+            "x": 50,
+            "y": 240,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.3258196721311475409836065573)"
+            },
+            "value": "1.737704918032786885245901639",
+            "category": "C1"
+        },
+        {
+            "name": "LIR107C1",
+            "x": 50,
+            "y": 490,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.3759236453201970443349753694)"
+            },
+            "value": "2.004926108374384236453201970",
+            "category": "C1"
+        },
+        {
+            "name": "LIR103C1",
+            "x": 50,
+            "y": 290,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.8125000000000000000000000000)"
+            },
+            "value": "4.333333333333333333333333333",
+            "category": "C1"
+        },
+        {
+            "name": "LIR104C1",
+            "x": 50,
+            "y": 340,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1521915584415584415584415585)"
+            },
+            "value": "0.8116883116883116883116883117",
+            "category": "C1"
+        },
+        {
+            "name": "LIR103C2",
+            "x": 50,
+            "y": 290,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.5714285714285714285714285714)"
+            },
+            "value": "1.333333333333333333333333333",
+            "category": "C2"
+        },
+        {
+            "name": "LIR106C2",
+            "x": 50,
+            "y": 440,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": "0.2288135593220338983050847458",
+            "category": "C2"
+        },
+        {
+            "name": "LIR102C2",
+            "x": 50,
+            "y": 240,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.5059233449477351916376306621)"
+            },
+            "value": "1.180487804878048780487804878",
+            "category": "C2"
+        },
+        {
+            "name": "LIR107C2",
+            "x": 50,
+            "y": 490,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.3942857142857142857142857143)"
+            },
+            "value": "0.92",
+            "category": "C2"
+        },
+        {
+            "name": "LIR104C2",
+            "x": 50,
+            "y": 340,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.4857142857142857142857142856)"
+            },
+            "value": "1.133333333333333333333333333",
+            "category": "C2"
+        },
+        {
+            "name": "LIR105C2",
+            "x": 50,
+            "y": 390,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": "0.0",
+            "category": "C2"
+        },
+        {
+            "name": "LIR102C3",
+            "x": 50,
+            "y": 240,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.5080645161290322580645161290)"
+            },
+            "value": "2.386363636363636363636363636",
+            "category": "C3"
+        },
+        {
+            "name": "LIR104C3",
+            "x": 50,
+            "y": 340,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.7870967741935483870967741935)"
+            },
+            "value": "3.696969696969696969696969697",
+            "category": "C3"
+        },
+        {
+            "name": "LIR106C3",
+            "x": 50,
+            "y": 440,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": "0.2142857142857142857142857143",
+            "category": "C3"
+        },
+        {
+            "name": "LIR107C3",
+            "x": 50,
+            "y": 490,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.2980645161290322580645161290)"
+            },
+            "value": "1.4",
+            "category": "C3"
+        },
+        {
+            "name": "LIR103C3",
+            "x": 50,
+            "y": 290,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": "0.0",
+            "category": "C3"
+        },
+        {
+            "name": "LIR104outlier",
+            "x": 50,
+            "y": 340,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": "0.0",
+            "category": "outlier"
+        },
+        {
+            "name": "LIR102outlier",
+            "x": 50,
+            "y": 240,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": "0.0",
+            "category": "outlier"
+        },
+        {
+            "name": "LIR106outlier",
+            "x": 50,
+            "y": 440,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": "0.0",
+            "category": "outlier"
+        },
+        {
+            "name": "LIR107outlier",
+            "x": 50,
+            "y": 490,
+            "symbolSize": 30,
+            "itemStyle": {
+                "color": "rgb(255, 0, 0, 0.1)"
+            },
+            "value": "0.0",
+            "category": "outlier"
+        }
+    ],
+    "links": [],
+    "categories": [
+        {
+            "name": "C1"
+        },
+        {
+            "name": "C2"
+        },
+        {
+            "name": "C3"
+        },
+        {
+            "name": "outlier"
+        }
+    ]
+}
