@@ -1,0 +1,1 @@
+{"nodes": [{"name": "客戶名稱_other:客戶名稱"}, {"name": "客戶產業_other:客戶產業"}, {"name": "專案狀態_other:專案狀態"}, {"name": "業務人員_other:業務人員"}], "links": [{"source": "客戶產業_other:客戶產業", "target": "客戶名稱_other:客戶名稱", "value": 8777.0}, {"source": "客戶名稱_other:客戶名稱", "target": "業務人員_other:業務人員", "value": 8777.0}, {"source": "業務人員_other:業務人員", "target": "專案狀態_other:專案狀態", "value": 8777.0}]}
